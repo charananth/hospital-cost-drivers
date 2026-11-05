@@ -8,6 +8,12 @@ __pycache__/
 
 # Private notes
 gme.txt
+CLAUDE.md
+
+# Data files the analysis does not use
+Data/Expenses_2024_corrupted.csv
+Data/merged_year_common_hospitals.xlsx
+Sample Data/
 
 # Copyrighted papers and data too large for GitHub
 Research Papers/
