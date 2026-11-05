@@ -1,0 +1,15 @@
+# Environment and caches
+.venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.DS_Store
+~$*
+
+# Private notes
+gme.txt
+
+# Copyrighted papers and data too large for GitHub
+Research Papers/
+References/
+Quality Data/
